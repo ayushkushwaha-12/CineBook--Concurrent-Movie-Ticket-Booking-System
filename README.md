@@ -274,6 +274,6 @@ src/main/java/com/cfs/bms/
 
 ## Author
 
-**Devansh Gupta**  
+**Ayush Kushwaha**  
 B.Tech CSE 2027 · Pranveer Singh Institute of Technology, Kanpur  
-[LinkedIn](https://linkedin.com/in/YOUR_ID) · [GitHub](https://github.com/YOUR_ID) · [LeetCode](https://leetcode.com/YOUR_ID)
+[LinkedIn](https://www.linkedin.com/in/ayush-kushwaha-445943285/) · [GitHub](https://github.com/ayushkushwaha-12) · [LeetCode](https://leetcode.com/u/Ayush_55/)
